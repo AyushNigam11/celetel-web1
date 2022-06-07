@@ -10,14 +10,14 @@ const Home: NextPage = () => {
     
     <div className="flex min-h-screen flex-col items-center justify-center py-2 bg-green-200">
       <Head>
-        <title>Celetal webpage</title>
+        <title>Celetel webpage</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <div className="bg-white rounded-2xl shadow-2xl flex w-2/3 max-w-2xl">
           <div className=" p-5">
             <div className="text-left font-bold">
-              <span className="text-blue-500">Celetal</span>Technologies
+              <span className="text-blue-500">Celetel</span>Technologies
             </div>
             <div className="py-2 px-20 mt-20">
               <h2 className="text-3xl font-bold text-blue-500 mb-2">Enter OTP</h2>
